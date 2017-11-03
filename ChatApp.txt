@@ -1,0 +1,13 @@
+I named my Chat UI as Chit-Chat.
+I used the following technologies: React, Node, and Socket.io.
+
+I used Webstorm IDE for the project.
+In terminal, these commands are needed for this project:
+
+npm install http
+npm install --save-dev http
+npm install --save-dev express
+npm install --save-dev socket.io
+node server
+
+--save-dev is for the .json file. 
